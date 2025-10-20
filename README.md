@@ -6,13 +6,13 @@
 
 这是一款基于 **SOLIDWORKS** 设计的 3D 打印**暗房颗粒对焦（放大）器**。
 
-![效果图_W](Images\效果图_W.png)
+![效果图_W](.\Images\效果图_W.png)
 
-![DSC_2794](Images\DSC_2794.jpg)
+![DSC_2794](.\Images\DSC_2794.jpg)
 
-![DSC_2795](Images\DSC_2795.jpg)
+![DSC_2795](.\Images\DSC_2795.jpg)
 
-![DSC_2796.MOV_20251020_224942.991](Images\DSC_2796.MOV_20251020_224942.991.jpg)
+![DSC_2796.MOV_20251020_224942.991](.\Images\DSC_2796.MOV_20251020_224942.991.jpg)
 
 ## 制作
 
@@ -34,7 +34,7 @@
 
 规格：`5~10X` 放大
 
-<img src="Images\MagnifyingGlass.png" alt="MagnifyingGlass" style="zoom:25%;" />
+<img src=".\Images\MagnifyingGlass.png" alt="MagnifyingGlass" style="zoom:25%;" />
 
 #### 镜片：
 
@@ -44,7 +44,7 @@
 
 定制 `Φ=30mm`，厚 `2mm` 圆形亚克力**单面**磨砂片。
 
-![DSC_2791.MOV_20251020_224832.562](Images\DSC_2791.MOV_20251020_224832.562.jpg)
+![DSC_2791.MOV_20251020_224832.562](.\Images\DSC_2791.MOV_20251020_224832.562.jpg)
 
 ### 组装：
 
@@ -68,4 +68,4 @@
 
 > 这个例子中光路长度为 `49.01mm`。
 
-![示意图](Images\示意图.png)
+![示意图](.\Images\示意图.png)

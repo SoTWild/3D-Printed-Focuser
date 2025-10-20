@@ -6,13 +6,13 @@
 
 这是一款基于 **SOLIDWORKS** 设计的 3D 打印**暗房颗粒对焦（放大）器**。
 
-![效果图_W](.\Images\效果图_W.png)
+<img src=".\Images\效果图_W.png" alt="效果图_W" style="zoom:100%;" />
 
-![DSC_2794](.\Images\DSC_2794.jpg)
+<img src=".\Images\DSC_2794.jpg" alt="DSC_2794" style="zoom:100%;" />
 
-![DSC_2795](.\Images\DSC_2795.jpg)
+<img src=".\Images\DSC_2795.jpg" alt="DSC_2795" style="zoom:100%;" />
 
-![DSC_2796.MOV_20251020_224942.991](.\Images\DSC_2796.MOV_20251020_224942.991.jpg)
+<img src=".\Images\DSC_2796.MOV_20251020_224942.991.jpg" alt="DSC_2796.MOV_20251020_224942.991" style="zoom:100%;" />
 
 ## 制作
 
@@ -44,7 +44,7 @@
 
 定制 `Φ=30mm`，厚 `2mm` 圆形亚克力**单面**磨砂片。
 
-![DSC_2791.MOV_20251020_224832.562](.\Images\DSC_2791.MOV_20251020_224832.562.jpg)
+<img src=".\Images\DSC_2791.MOV_20251020_224832.562.jpg" alt="DSC_2791.MOV_20251020_224832.562" style="zoom:100%;" />
 
 ### 组装：
 
@@ -68,4 +68,4 @@
 
 > 这个例子中光路长度为 `49.01mm`。
 
-![示意图](.\Images\示意图.png)
+<img src=".\Images\示意图.png" alt="示意图" style="zoom:100%;" />

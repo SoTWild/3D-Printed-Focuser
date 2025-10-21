@@ -1,6 +1,6 @@
 # 3D打印颗粒对焦器
 
-###### 【Designed By Dioxgen】![](https://img.shields.io/badge/Version-1.0-red)![](https://img.shields.io/badge/Licence-GNU-blue)
+###### 【Designed By Dioxgen】![](https://img.shields.io/badge/Version-1.0-red)![](https://img.shields.io/badge/Licence-GPL-blue)
 
 ## 概述
 
